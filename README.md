@@ -19,7 +19,7 @@ This repository is organized according to the required project structure. The ma
 ```text
 .
 ├── README.md               # Project overview and reproduction instructions
-├── code/                   # Re-implementation code, scripts, notebooks, and configs
+├── code/                   # Re-implementation notebook
 ├── data/                   # Dataset files or README with dataset download instructions
 ├── results/                # Generated figures, tables, logs, and evaluation outputs
 ├── poster/                 # PDF of the in-class project poster
